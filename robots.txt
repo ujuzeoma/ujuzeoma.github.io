@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujuzeoma.github.io/CjN/sitemap_index.txt
+Sitemap: https://ujuzeoma.github.io/PKh/sitemap_index.txt
+Sitemap: https://ujuzeoma.github.io/SuT/sitemap_index.txt
+Sitemap: https://ujuzeoma.github.io/Thk/sitemap_index.txt
